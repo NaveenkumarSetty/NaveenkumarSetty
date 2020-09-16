@@ -33,6 +33,13 @@ I am also an enthusiastic learner which takes to Data science which is most rele
 
 Happy learning :) 
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="NaveenkumarSetty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NaveenkumarSetty&show_icons=true&hide_border=true" />
+
+</details>
+
 ### Need help?
 
 [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@NaveenkumarSetty&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/naveenkumarsetty/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@NaveenkumarSetty&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/naveenkumarsetty/) [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@NaveenkumarSetty&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/NaveekumarSetty/)  
