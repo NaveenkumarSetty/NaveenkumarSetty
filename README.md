@@ -8,7 +8,7 @@
 ✨[![GitHub followers](https://img.shields.io/github/followers/NaveenkumarSetty?tab=followersstyle=social&label=Follow&maxAge=2592000)](https://github.com/NaveenkumarSetty?tab=following)✨
 
 
-# Data science Enthusiast 🕵 • Business Data Analyst • Python Developer • Growth Hacker ⚡️• TEDx Speaker #
+# Data science Enthusiast 🕵 { Machine Learning🕵 @TCS } | Artificial Intelligence | Computer Vision | Cognitive Computing | #
 I`ve always taken life as a journey that learns from every situation and rise. So far it has been a road full of interesting events and people. I never stopped with my failures because I believe that you are failing in something you learned from it. As part of my journey, I am fully influenced by logical thinking, and analyzing becomes a hobby that leads to work with programming.
 
 ## Social Connect: 
