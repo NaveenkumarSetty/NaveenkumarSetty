@@ -9,15 +9,15 @@
 
 
 # Data science Enthusiast 🕵 { Machine Learning🕵 @TCS } | Artificial Intelligence | Computer Vision | Cognitive Computing | #
-I`ve always taken life as a journey that learns from every situation and rise. So far it has been a road full of interesting events and people. I never stopped with my failures because I believe that you are failing in something you learned from it. As part of my journey, I am fully influenced by logical thinking, and analyzing becomes a hobby that leads to work with programming.
+I`ve always taken life as a journey that learns from every situation and rise. So far it has been a road full of interesting events and people. I never stopped with my failures because I believe that you are failing in something you learn from it. As part of my journey, I am fully influenced by logical thinking, and analyzing becomes a hobby that leads to working with programming.
 
 ## Social Connect: 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Naveenkumar-Setty/) 
 
 ## Here are some ideas to get you started:
 
-### 🔭 I’m currently working on IOT Developer
-### 🌱 I’m currently learning DATA SCIENCE AND Mechine Learning
+### 🔭 I’m currently working on GenerativeAI and Large Language Models
+### 🌱 I’m currently learning DATA SCIENCE AND Machine Learning
 ### 👯 I’m looking to collaborate on ...
 ### 🤔 I’m looking for help with ...
 ### 💬 Ask me about ...
@@ -27,9 +27,9 @@ I`ve always taken life as a journey that learns from every situation and rise. S
 
 Our data are something that fuels the meaning of life. With data, we create our realities. That is why my journey has taken me to work with data.
 
-The journey has taken me through a Bachelor's of technology in Kandhula Sreenivasula Reddy Memorial college of engineering (autonomous). where I have learned to program, analyzing problems, and providing solutions. During college time I am an active member of the student organization. It gave me good knowledge about corporation lifestyle, organizing events, and abilities to communicate with people from various fields of expertise.
+The journey has taken me through a Bachelor's of technology in Kandhula Sreenivasula Reddy Memorial College of Engineering (autonomous). where I have learned to program, analyze problems, and provide solutions. During college time I am an active member of the student organization. It gave me good knowledge about the corporation lifestyle, organizing events, and the ability to communicate with people from various fields of expertise.
 
-I am also an enthusiastic learner which takes to Data science which is most relevant to my skills and goals. this has been taken to start learning new things and analyze and providing solutions based on real-time data.
+I am also an enthusiastic learner who takes to Data science which is most relevant to my skills and goals. this has been taken to start learning new things and analyzing and providing solutions based on real-time data.
 
 Happy learning :) 
 
