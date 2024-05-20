@@ -1,53 +1,18 @@
-
-<!--
-**NaveenkumarSetty/NaveenkumarSetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### Hi there 👋
-
-✨[![GitHub followers](https://img.shields.io/github/followers/NaveenkumarSetty?tab=followersstyle=social&label=Follow&maxAge=2592000)](https://github.com/NaveenkumarSetty?tab=following)✨
+# 💫 About Me:
+👋I'm Naveenkumar Setty. I have 5+ years of experience working as an AI/ML Developer for top listed company. I have experience with Developing the product from Scratch through deployment, ensuring that the product aligns with the market’s needs, and adapting to advanced AI technologies and algorithms.<br><br>I believe wherever you go whatever you see, AI is making life easy & convenient for mankind. It gives me immense satisfaction to be a part of it.<br><br>I live by this principle: <br>“Genuinely be the best at what I do.”<br><br>Work with the best company. Collaborate with the best team. Be the best any company could hire. Create the best product.💪<br><br>For a cross-functional team, great collaboration is mandatory. I exhibit emotional intelligence to help teams work well together and achieve a high-performing state. 🤞 <br><br><br>Technical Skills : <br>Artificial Intelligence: Machine Learning, Deep Learning, Generative AI, Image Processing, Natural Language Processing (NLP), Reinforcement Learning | TensorFlow, Keras, OpenCV, PIL, SpaCy, Object Detection API<br>Programming Languages: Python, R<br>Databases :PostgreSQL, MongoDB(Beginner), MySQL(Basics)<br>Cloud Platform: Azure Cloud| Azure DevOps | GCP |<br>Version Control: Git
 
 
-# Data science Enthusiast 🕵 { Machine Learning🕵 @TCS } | Artificial Intelligence | Computer Vision | Cognitive Computing | #
-I`ve always taken life as a journey that learns from every situation and rise. So far it has been a road full of interesting events and people. I never stopped with my failures because I believe that you are failing in something you learn from it. As part of my journey, I am fully influenced by logical thinking, and analyzing becomes a hobby that leads to working with programming.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naveenkumarsetty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveenkumarsetty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenkumarsetty) 
 
-## Social Connect: 
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Naveenkumar-Setty/) 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naveenkumarsetty&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarsetty&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarsetty&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=naveenkumarsetty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 I’m currently working on GenerativeAI and Large Language Models
-### 🌱 I’m currently learning DATA SCIENCE AND Machine Learning
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about ...
-### 📫 How to reach me: ...
-### 😄 Pronouns: ...
-### ⚡ Fun fact: ...
-
-Our data are something that fuels the meaning of life. With data, we create our realities. That is why my journey has taken me to work with data.
-
-The journey has taken me through a Bachelor's of technology in Kandhula Sreenivasula Reddy Memorial College of Engineering (autonomous). where I have learned to program, analyze problems, and provide solutions. During college time I am an active member of the student organization. It gave me good knowledge about the corporation lifestyle, organizing events, and the ability to communicate with people from various fields of expertise.
-
-I am also an enthusiastic learner who takes to Data science which is most relevant to my skills and goals. this has been taken to start learning new things and analyzing and providing solutions based on real-time data.
-
-Happy learning :) 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="NaveenkumarSetty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NaveenkumarSetty&show_icons=true&hide_border=true" />
-
-</details>
-
-### Need help?
-
-[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@NaveenkumarSetty&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/naveenkumarsetty/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@NaveenkumarSetty&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/naveenkumarsetty/) [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@NaveenkumarSetty&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/NaveekumarSetty/)  
-
-:email: Feel free to contact me @ [nksetty.ai@gmail.com](https://mail.google.com/mail/)
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=nksetty.ai@gmail.com&color=red&logo=gmail&style=social)](https://github.com/NaveenkumarSetty) 
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
